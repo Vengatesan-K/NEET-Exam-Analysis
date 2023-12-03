@@ -5,6 +5,7 @@
 > This project focuses on conducting descriptive analysis using Power BI and predictive analysis using time series and machine learning algorithms on NEET examination results. It aims to provide insights into the trends and patterns of NEET examination data and predict future outcomes.
 
 ## Table of Contents
+<img align="right" alt="coding" width="370" height="290" src="https://axenehp.com/wp-content/uploads/2019/06/20190613_header.jpg" width="200">
 
 - [x] Introduction
 - [x] Features
@@ -16,15 +17,17 @@
 - [x] Results
 - [x] Contributing
 - [x] License
+***
 
 ### Introduction
 The NEET Examination Results Analysis project performs descriptive analysis using Power BI to explore historical data and predictive analysis using time series and machine learning algorithms to forecast future trends based on past NEET examination results.
 
-### Features
-- Descriptive analysis using Power BI
-- Predictive analysis using time series analysis
-- Machine learning algorithms for prediction
-- Visualization of results
+### Features 
+- [ ] Descriptive analysis using Power BI
+- [ ] Predictive analysis using time series analysis
+- [ ] Machine learning algorithms for prediction
+- [ ] Visualization of results
+<img align="right" alt="coding" width="400" height="350" src="https://www.mgsionline.com/images/banner/phys-img4.png" width="200">
 
 ### Technologies Used
 
@@ -40,6 +43,7 @@ The NEET Examination Results Analysis project performs descriptive analysis usin
 - Run the descriptive analysis report in Power BI by opening the provided .pbix file.
    - Access the Jupyter Notebooks in the Notebooks directory for predictive analysis and machine learning algorithms.
      - Follow the instructions in the notebooks to execute the code and perform predictions.
+
 ### Data
 > The data used in this project is sourced from [wikipedia](https://en.wikipedia.org/wiki/National_Eligibility_cum_Entrance_Test_(Undergraduate)#Number_of_applicants_by_year). Please refer to the Dataset directory for the dataset used.
 
@@ -63,4 +67,6 @@ Feel free to contribute by forking the repository, making changes, and creating 
 ### License
 This project is licensed under the MIT. See the LICENSE file for details.
 
-> Feel free to customize the sections and details based on the specific information and nuances of your project. This README acts as a guide to provide users and potential contributors with a clear understanding of the project's purpose, functionality, and how to engage with it.
+> Feel free to customize the sections and details based on the specific information and nuances of your project.
+> > This README acts as a guide to provide users and potential contributors with a clear understanding of the project's purpose, functionality, and how to engage with it.
+_________
